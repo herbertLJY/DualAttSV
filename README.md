@@ -8,7 +8,7 @@ By Jingyu Li, Tan Lee.
 [Paper-pdf](https://isca-speech.org/archive/Interspeech_2020/pdfs/2031.pdf)
 
 ## Dual attention
-<div align=center><img src="attention.pdf" width="420" height="350"></div>
+<div align=center><img src="att.png" width="420" height="350"></div>
 
 
 ## Citation
